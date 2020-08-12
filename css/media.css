@@ -1,0 +1,183 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+
+	.l_btn {
+	   padding: 0;
+	}
+	.s_btn {
+	    padding: 0px;
+	    border: none;
+	    margin-left: 0px;
+	} 	
+	/*service section start*/
+	.s_head {
+	    font-size: 20px;
+	    font-weight: 700;
+	}
+
+	/*service section end*/
+	/*works section start*/
+	.t_head h2 {
+	    font-size: 22px;
+	    margin-bottom: 20px;
+	}
+	.video_box {
+	    margin-bottom: -40px;
+	}
+	/*works section end*/
+	.single_service_section {
+		padding: 10px;
+		background-position: center;
+	   
+	}
+	/*faq section start*/
+	.card-header .title {
+	    font-size: 16px;
+	}
+	/*faq section end*/
+	/*pricing section start*/
+	.c_heading {
+	    width: 80%;
+	}
+	/*pricing section end*/
+	/*contact form start*/
+	.mybtn button {
+	   width: 100%;
+	}
+	/*contact form end*/
+	/*footer section start*/
+	.playstore {
+	    text-align: center;
+	}
+	.footer_menu{
+	  text-align: center;
+	  margin-top: 20px;
+	  
+	}
+	.f_b_top {
+	    text-align: center;
+	}
+	.social_icon {
+	    text-align: center;
+	}
+	/*footer section end*/
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	.l_btn {
+	   padding: 0;
+	}
+	.s_btn {
+	    padding: 0px;
+	    border: none;
+	    margin-left: 0px;
+	} 
+	/*header end*/
+	.t_head h2 {
+	    font-size: 32px;
+	}
+	/*service section start*/
+	.s_head {
+	    font-size: 20px;
+	}
+	/*service section end*/
+	/*works section start*/
+	
+	.video_box {
+	    margin-bottom: -40px;
+	}
+	/*works section end*/
+	.single_service_section {
+		padding: 10px;
+	   
+	}
+	/*faq section start*/
+	.card-header .title {
+	    font-size: 16px;
+	}
+	/*faq section end*/
+	/*contact form start*/
+	.mybtn button {
+	   width: 100%;
+	}
+	/*contact form end*/
+	/*footer section start*/
+	.playstore {
+	    text-align: center;
+	}
+	.footer_menu{
+	  text-align: center;
+	  margin-top: 20px;
+	  
+	}
+	.f_b_top {
+	    text-align: center;
+	}
+	.social_icon {
+	    text-align: center;
+	}
+	/*footer section end*/
+	
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	.l_btn {
+	   padding: 0;
+	}
+	.s_btn {
+	    padding: 0px;
+	    border: none;
+	    margin-left: 0px;
+	} 
+	/*header end*/
+	.t_head h2 {
+	    font-size: 32px;
+	}
+	/*service section start*/
+	.single_service_section {
+		padding: 10px;
+	   
+	}
+	.s_head {
+	    font-size: 20px;
+	}
+
+	/*service section end*/
+	/*works section start*/
+	
+	.video_box {
+	    margin-bottom: -40px;
+	}
+	/*works section end*/
+	/*testimonial section start*/
+	.img_box {
+	    margin-top: 100px;
+	}
+	/*testimonial section end*/
+	/*faq setion start*/
+	.smart_watch {
+	    width: 65%;
+	}
+	.card-header .title {
+	    font-size: 16px;
+	}
+	/*faq setion end*/
+	/*pricing section start*/
+	.c_heading {
+	    width: 80%;
+	}
+	.sign_btn {
+	    padding: 5px 40px;
+	}
+	/*pricing section end*/
+ }
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+ }
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+}
